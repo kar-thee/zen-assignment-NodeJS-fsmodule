@@ -12,5 +12,4 @@ Working Screenshot provided :
 src="https://github.com/kar-thee/zen-assignment-NodeJS-fsmodule/blob/master/secondfolder/Screenshot-for-output-nodeJs-fs.png?raw=true"
 alt="screenshot"
 width="75%"
-height="300px"
->
+height="300px">
